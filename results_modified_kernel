@@ -1,0 +1,11 @@
+c =  1e-05 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.01 ,,ith data =  0  ,, f1.mean =>  0.907567211135   , acc.mean =>  0.94155868197
+c =  0.1 ,,ith data =  0  ,, f1.mean =>  0.889006676705   , acc.mean =>  0.929285449833
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.871450984296   , acc.mean =>  0.917049241022
+c =  10 ,,ith data =  0  ,, f1.mean =>  0.871450984296   , acc.mean =>  0.917049241022
+normalized
+c =  1e-05 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.01 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.1 ,,ith data =  0  ,, f1.mean =>  0.909731860728   , acc.mean =>  0.942891521659
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.890501208971   , acc.mean =>  0.929303961496
+c =  10 ,,ith data =  0  ,, f1.mean =>  0.878828233649   , acc.mean =>  0.922491669752

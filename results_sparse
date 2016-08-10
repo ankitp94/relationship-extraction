@@ -1,0 +1,42 @@
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.0967666343518   , acc.mean =>  0.676675305442
+c =  1 ,,ith data =  1  ,, f1.mean =>  0.831554353085   , acc.mean =>  0.885783043317
+c =  1 ,,ith data =  2  ,, f1.mean =>  0.831554353085   , acc.mean =>  0.885783043317
+c =  1 ,,ith data =  3  ,, f1.mean =>  0.819247150625   , acc.mean =>  0.879026286561
+c =  1 ,,ith data =  4  ,, f1.mean =>  0.843002664444   , acc.mean =>  0.898130322103
+c =  1 ,,ith data =  5  ,, f1.mean =>  0.850063564709   , acc.mean =>  0.903535727508
+c =  1 ,,ith data =  6  ,, f1.mean =>  0.850063564709   , acc.mean =>  0.903535727508
+c =  1 ,,ith data =  7  ,, f1.mean =>  0.854603678834   , acc.mean =>  0.906256941873
+c =  1 ,,ith data =  8  ,, f1.mean =>  0.856425461012   , acc.mean =>  0.907608293225
+c =  1 ,,ith data =  9  ,, f1.mean =>  0.849354753942   , acc.mean =>  0.903498704184
+c =  1 ,,ith data =  10  ,, f1.mean =>  0.849354753942   , acc.mean =>  0.903498704184
+
+normalized
+
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.0967666343518   , acc.mean =>  0.676675305442
+c =  1 ,,ith data =  1  ,, f1.mean =>  0.831554353085   , acc.mean =>  0.885783043317
+c =  1 ,,ith data =  2  ,, f1.mean =>  0.831554353085   , acc.mean =>  0.885783043317
+c =  1 ,,ith data =  3  ,, f1.mean =>  0.829210918741   , acc.mean =>  0.884431691966
+c =  1 ,,ith data =  4  ,, f1.mean =>  0.841248278479   , acc.mean =>  0.896760459089
+c =  1 ,,ith data =  5  ,, f1.mean =>  0.854243642831   , acc.mean =>  0.906256941873
+c =  1 ,,ith data =  6  ,, f1.mean =>  0.856425461012   , acc.mean =>  0.907608293225
+c =  1 ,,ith data =  7  ,, f1.mean =>  0.856425461012   , acc.mean =>  0.907608293225
+c =  1 ,,ith data =  8  ,, f1.mean =>  0.856425461012   , acc.mean =>  0.907608293225
+c =  1 ,,ith data =  9  ,, f1.mean =>  0.860495169082   , acc.mean =>  0.91032950759
+c =  1 ,,ith data =  10  ,, f1.mean =>  0.858232542819   , acc.mean =>  0.9089596445761
+
+
+
+
+Different c
+unnormalized
+c =  1e-05 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.01 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.1 ,,ith data =  0  ,, f1.mean =>  0.857213714529   , acc.mean =>  0.904850055535
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.843002664444   , acc.mean =>  0.898130322103
+c =  10 ,,ith data =  0  ,, f1.mean =>  0.666318843868   , acc.mean =>  0.844779711218
+normalized
+c =  1e-05 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.01 ,,ith data =  0  ,, f1.mean =>  0.0   , acc.mean =>  0.683432062199
+c =  0.1 ,,ith data =  0  ,, f1.mean =>  0.857213714529   , acc.mean =>  0.904850055535
+c =  1 ,,ith data =  0  ,, f1.mean =>  0.841248278479   , acc.mean =>  0.896760459089
+c =  10 ,,ith data =  0  ,, f1.mean =>  0.666318843868   , acc.mean =>  0.844779711218

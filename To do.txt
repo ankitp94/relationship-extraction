@@ -1,0 +1,4 @@
+ -- Normalize Kernel matrix
+ -- Sparse Kernel matrix
+ -- Panda kernel matrix
+ -- change k() to = 1 if roles and types same
